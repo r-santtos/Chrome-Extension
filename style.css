@@ -1,0 +1,8 @@
+.twoTimesButton {
+    color: #0dc143;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
